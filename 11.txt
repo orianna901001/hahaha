@@ -1,5 +1,13 @@
+
 000000
 
 print("local")
 
 local
+
+050505
+
+print("romote")
+
+romote
+
